@@ -44,7 +44,8 @@ Visit the provided URL in your web browser to access the application.
 ### _After Certificate Generated_
 ![Get Certificate](https://github.com/CodeWizardl/Certificate-Generator/assets/142290678/ac97a733-6d4d-4d5e-9a23-75ceda8b83b0)
 ### _About Certificate Generated_
-![About](https://github.com/CodeWizardl/Certificate-Generator/assets/142290678/5d1d5452-25e4-4940-b1e1-019c39514f6e)
+![About](https://github.com/CodeWizardl/Certificate-Generator/assets/142290678/0ed6a4cc-effd-4bb8-9625-088830f97a99)
+
 
 ## Conclusion
 
