@@ -14,7 +14,8 @@ To set up the Certificate Generator on your device, follow the steps outlined be
 ## Installation
 1. Clone the repository.
    ```sh
-   git clone https://github.com/YourUsername/Certificate-Generator.git
+   git clone https://github.com/CodeWizardl/Certificate-Generator
+
    ```
 
 2. Navigate to the project directory.
@@ -38,6 +39,9 @@ Visit the provided URL in your web browser to access the application.
 
 - Check out the Demo Screenshot to witness the Certificate Generator in action. This visual representation provides a glimpse into the user-friendly interface and showcases the application's capabilities in simplifying the certificate generation process.
 - Explore the power of Python, OpenCV, and Streamlit in action!
+![Main](https://github.com/CodeWizardl/Certificate-Generator/assets/142290678/2e09be45-4baa-4e1f-826b-47bdeab7867d)
+![Get Certificate](https://github.com/CodeWizardl/Certificate-Generator/assets/142290678/ac97a733-6d4d-4d5e-9a23-75ceda8b83b0)
+![About](https://github.com/CodeWizardl/Certificate-Generator/assets/142290678/5d1d5452-25e4-4940-b1e1-019c39514f6e)
 
 ## Conclusion
 
