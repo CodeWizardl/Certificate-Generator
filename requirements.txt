@@ -1,0 +1,5 @@
+opencv-python==4.5.3
+streamlit==1.14.0
+st_click_detector==0.2.0
+numpy==1.21.2
+Pillow==8.2.0
